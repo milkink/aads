@@ -1,3 +1,4 @@
+#include <iostream>
 #include <cstdlib>
 #include <cmath>
 #include <ctime>
@@ -144,4 +145,3 @@ int main() {
     cout << "After removing 19:" <<endl;
     skiplist.display();
 }
-
